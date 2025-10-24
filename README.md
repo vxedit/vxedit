@@ -1,127 +1,128 @@
-
----
-<img src="assets/coding.gif" alt="give alternate name if image doesn't load" align="right" width="190">
-
-# Hey👋, I'm Irfan!
-
-<!-- <p align="center">
-  <img src="[Your Profile Banner URL]" alt="Profile Banner">
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/github/followers/vxedit?style=social" style="padding:5px">
-  <img src="https://img.shields.io/github/stars/vxedit?style=social" style="padding:5px">
-</p> -->
-
-<p align="center">Welcome to my GitHub profile. I'm Irfan, a passionate Python developer and B.Tech student from Atmiya University. Here, you'll find a collection of my projects, contributions, and explorations. Feel free to explore and connect with me!</p>
-
-## About Me
-
-- 🎓 B.Tech student in Electrical at Atmiya University
-- 🌱 Currently learning Deployments, Web Development, React.js, AWS, Django, and Solidity
-- 👨🏻‍💻 Focusing on improving my communication and programming skills
-- 📚 Avid reader and lifelong learner
-- 💼 Currently searching for Python developer jobs
-- 🤝 Open to collaborating on projects and discussing new ideas
-
-## Skills - Languages and Tools
+# Hey👋, I'm Irfan Sipai! | Python AI/ML Developer 🚀
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
+  Welcome! I'm an Electrical Engineering graduate turned Python AI/ML Developer with 1.5 years of hands-on experience at Autobits Labs. I specialize in building intelligent systems, backend microservices, and automation tools from the ground up, with a strong focus on performance and reliability. I thrive on dissecting complex problems and delivering robust, well-researched solutions.
+</p>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+## About Me 🧑‍💻
+
+- 🛠️ Building high-performance AI/ML systems (Computer Vision focus).
+- 🚀 Designing and implementing backend microservices (FastAPI, Flask, Django).
+- ⚡ Optimizing for real-time processing and GPU acceleration (CUDA, ONNX Runtime).
+- ☁️ Experienced with containerization (Docker, Docker Compose) and Linux environments (Ubuntu).
+- 🌱 Always learning and exploring new technologies in AI, backend development, and cloud platforms.
+- 🤝 Open to collaborating on interesting projects and discussing innovative ideas.
+- 💼 Seeking challenging opportunities as a Python AI/ML Developer.
+
+## Skills - Languages & Tools 🛠️
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding: 5px"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1024px-PyTorch_logo_icon.svg.png" alt="pytorch" width="40" height="40" style="padding: 5px"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="padding: 5px"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
+   <a href="https://onnx.ai/about.html" target="_blank" rel="noreferrer">
+     <img src="https://onnx.ai/images/icon/icon-ONNX-logo.svg" alt="onnx" width="40" height="40" style="padding: 5px"/>
+   </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
+     <img src="./assets/pngegg.png" alt="cuda" width="40" height="40" style="padding: 5px"/>
+   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg" alt="ffmpeg" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="padding: 5px"/>
+  </a>
+   <a href="https://redis.io" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="padding: 5px"/>
+   </a>
+  <a href="https://docs.celeryq.dev" target="_blank" rel="noreferrer">
+     <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*4IPZaXtMRQf_nCBD.jpg" alt="celery" width="40" height="40" style="padding: 5px"/>
+   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding: 5px"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding: 5px"/>
   </a>
 </p>
 
-<!-- ## Coding Status
+## Estimated Coding Activity (Last ~1.5 Years)
 
-![Visitor Count](https://profile-counter.glitch.me/[YourUsername]/count.svg)
+```txt
+(approx. 2500 hours)
 
-[![wakatime](https://wakatime.com/badge/user/[YourWakatimeBadge].svg)](https://wakatime.com/@[YourWakatimeBadge]) -->
+Python (Backend, AI/ML)       █████████████▓░░░░░░░░░░░   55.0 %
+Docker & DevOps               █████░░░░░░░░░░░░░░░░░░░░   20.0 %
+Git & Collaboration           ███▒░░░░░░░░░░░░░░░░░░░░░   15.0 %
+Linux & Shell                 ██░░░░░░░░░░░░░░░░░░░░░░░   05.0 %
+Frontend (JS/React/HTML/CSS)  ██░░░░░░░░░░░░░░░░░░░░░░░   05.0 %
+```
 
-<!--START_SECTION:waka-->
-<!-- ```txt
-From: 04 June 2023 - To: 06 July 2024
+_Note: This is an estimation based on project focus over \~1.5 years of professional experience._
 
-Total Time: 381 hrs 10 mins
+## ✨ Featured Projects
 
-JavaScript        160 hrs 8 mins  ██████████▒░░░░░░░░░░░░░░   41.88 %
-CSS               89 hrs 49 mins  ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-HTML              85 hrs 44 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-Markdown          15 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Java              13 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-``` -->
-<!--END_SECTION:waka-->
+### [1\. Real-Time Face Recognition & Surveillance Platform (FastAPI Microservices)](https://github.com/vxedit/face-rec-services)
 
-## Projects
+- **Description:** Designed and built a high-performance, scalable platform for real-time face recognition across multiple IP cameras. Features include live monitoring, subject management, access control, and analytics via a web dashboard. (Developed professionally at Autobits Labs - _Source code is proprietary_).
+- **Key Features & Concepts:**
+  - Decoupled microservices architecture (FastAPI Control & Processing services).
+  - GPU-accelerated AI (InsightFace/ONNX Runtime) for detection & recognition.
+  - Self-healing video streams (FFmpeg/CUDA) with automatic restarts for high availability.
+  - Real-time dashboard updates via WebSockets.
+  - Asynchronous operations (`asyncio`, `SQLAlchemy`, `httpx`).
+  - Comprehensive permission system & background notification service.
+  - Fully containerized with Docker and Docker Compose.
+- **Skills Demonstrated:** Backend Development, Microservices, AI/ML Integration, GPU Acceleration, Real-Time Systems, Database Design (PostgreSQL), Docker, Performance Optimization, System Resilience, FFmpeg Pipelines, Asynchronous Programming.
 
-### [Game of Life](https://github.com/vxedit/Game-of-life)
-This project aims to improve logical thinking for coding in Python. It calculates the number of neighbors for a given cell and then decides whether the cell will continue to live in the next generation or not. The frames are displayed in an animated format using Matplotlib.
+### [2\. Real-Time Indian Sign Language Recognition with Speech Output](https://github.com/vxedit/isl-sign-recognition)
 
-<!-- ## Contributions
+- **Description:** An application that uses a webcam to detect hand gestures (ISL for 0-9, A-Z) in real-time via MediaPipe, classifies them using a TensorFlow/Keras model, and provides spoken feedback using asynchronous text-to-speech. Features prediction debouncing for stability.
+- **Technologies:** Python, TensorFlow/Keras, MediaPipe, OpenCV, NumPy, `threading`, `queue`, `pyttsx3`.
+- **Skills Demonstrated:** Computer Vision, ML Model Integration, Real-Time Processing, Concurrency (Threading), UI Feedback (Visual & Audio).
 
-Apart from my own projects, I actively contribute to various open-source projects. Some of my significant contributions include:
-- [MDN Docs](https://github.com/mdn/content): Added a section on [Comparing Dates and Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators). -->
-<!-- 
-## Blog
+### 3\. Chili Powder Quality Analysis (ML Model)
 
-Check out my latest articles on JavaScript, web development, and more:
-- [JavaScript](https://blog.com//): A series of articles from basics to advanced JavaScript. -->
+- **Description:** Developed machine learning models (PLSR, Transformers) using TensorFlow to predict pigmentation and capsaicinoid concentrations in chili powder from spectrography data.
+- **Results:** Increased pigmentation prediction accuracy by 20% and capsaicinoid prediction accuracy by 15% compared to baseline models.
+- **Skills Demonstrated:** Machine Learning, Data Analysis (Pandas, NumPy), Model Development (TensorFlow), Regression, Feature Engineering, Spectrography Data Handling.
 
-## Connect with Me
+
+## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/imcodec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/extremesecret0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <!-- <a href="https://instagram.com/[Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
-  <a href="https://leetcode.com/u/ExtremeSecret0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <!-- <a href="https://discord.gg/[YourDiscordInviteCode]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a> -->
+    <a href="www.linkedin.com/in/extremesecret0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/ExtremeSecret0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+    <a href="mailto:ee.irfansmail@gmail.com" target="blank">
+    <img align="center" src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" alt="gmail" height="30" width="40" >
+    </a>
 </p>
 
-<!-- ## Support Me
-
-If you find my work useful and want to support me, consider buying me a book!
-
-<a href="https://www.buymeacoffee.com/[MeACoffeeUsername]" target="_blank
-
-"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="217" height="60"></a> -->
-
 ---
-
-
