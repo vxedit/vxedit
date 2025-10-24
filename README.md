@@ -118,7 +118,7 @@ _Note: This is an estimation based on project focus over \~1.5 years of professi
 ## 📫 Connect with Me
 
 <p align="left">
-    <a href="www.linkedin.com/in/extremesecret0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/extremesecret0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://leetcode.com/u/ExtremeSecret0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
     <a href="mailto:ee.irfansmail@gmail.com" target="blank">
     <img align="center" src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" alt="gmail" height="30" width="40" >
