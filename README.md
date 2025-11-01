@@ -73,20 +73,6 @@
   </a>
 </p>
 
-## Estimated Coding Activity (Last ~1.5 Years)
-
-```txt
-(approx. 2500 hours)
-
-Python (Backend, AI/ML)       █████████████▓░░░░░░░░░░░   55.0 %
-Docker & DevOps               █████░░░░░░░░░░░░░░░░░░░░   20.0 %
-Git & Collaboration           ███▒░░░░░░░░░░░░░░░░░░░░░   15.0 %
-Linux & Shell                 ██░░░░░░░░░░░░░░░░░░░░░░░   05.0 %
-Frontend (JS/React/HTML/CSS)  ██░░░░░░░░░░░░░░░░░░░░░░░   05.0 %
-```
-
-_Note: This is an estimation based on project focus over \~1.5 years of professional experience._
-
 ## ✨ Featured Projects
 
 ### [1\. Real-Time Face Recognition & Surveillance Platform (FastAPI Microservices)](https://github.com/vxedit/face-rec-services)
